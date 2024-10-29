@@ -1,5 +1,4 @@
 # .github
-Here’s a more streamlined and impactful README for Sakiso Digital:
 🌟 Welcome to Sakiso Digital
 
 Hello and welcome! At Sakiso Digital, we’re here to drive digital transformation in Zimbabwe’s education sector. Our mission is simple: to create tools that make work easier, learning more engaging, and growth more achievable.
